@@ -1,5 +1,3 @@
-Command Panel
-
 
 Step_1: Creating django project folder:
 
